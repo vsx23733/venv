@@ -1,5 +1,5 @@
 import pygame
-from src.animation import AnimateSprite
+from animation import AnimateSprite
 
 
 class Entity(AnimateSprite):
