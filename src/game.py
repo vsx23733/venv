@@ -1,8 +1,8 @@
 import pygame
 
-from src.dialog import DialogBox
+from dialog import DialogBox
 from player import Player
-from src.map import MapManager
+from map import MapManager
 
 pygame.init()
 
