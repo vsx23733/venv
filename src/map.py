@@ -4,8 +4,8 @@ import pygame
 import pyscroll
 import pytmx
 
-from src.player import NPC
-from src.dialog import DialogBox
+from player import NPC
+from dialog import DialogBox
 
 
 @dataclass
